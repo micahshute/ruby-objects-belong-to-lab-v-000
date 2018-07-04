@@ -7,3 +7,4 @@ end
 
 
 a = Artist.new("micah")
+puts a
